@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/cleanlab/cleanlab/commit/750625747de1b26d8530954f51f0530bd0b51d3c",
       "git:hexsha": "750625747de1b26d8530954f51f0530bd0b51d3c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.9.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.9.0",
+      "repolex:parsedAt": "2026-10-17T05:13:15.332274+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cleanlab/cleanlab/commit/f8f131fa11da161dc5775d78e9f461c31e33e3d1",
