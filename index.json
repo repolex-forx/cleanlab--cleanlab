@@ -1,0 +1,11 @@
+{
+  "org": "cleanlab",
+  "repo": "cleanlab",
+  "versions": [
+    {
+      "commit": "750625747de1b26d8530954f51f0530bd0b51d3c",
+      "tag": "v2.9.0",
+      "parsed_at": "2026-10-17T05:13:15.332855+00:00"
+    }
+  ]
+}
